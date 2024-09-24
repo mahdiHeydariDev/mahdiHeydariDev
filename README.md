@@ -13,4 +13,4 @@
 
 <p>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,sql,java,kotlin,git,firebase)]()
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,mysql,java,kotlin,git,firebase)]()
