@@ -14,4 +14,3 @@
 <p>
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,mysql,java,kotlin)]()
-<img alt="HTML5" src="https://img.shields.io/badge/git-%23E34F
