@@ -13,8 +13,5 @@
 
 <p>
 
-<img alt="HTML5" src="https://img.shields.io/badge/flutter-%23E34F26.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/dart-%23E34F26.svg?style=for-the-badge&logo=dart&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/kotlin-%23E34F26.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=Java&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,mysql,java,kotlin)]()
 <img alt="HTML5" src="https://img.shields.io/badge/git-%23E34F
